@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NirogVideoApp</string>
+    <string name="agora_app_id">a936f76c975445979192c0c84860195f</string>
+    <string name="agora_access_token">006a936f76c975445979192c0c84860195fIADJFv4zxaktRVG82CYHqxQniheP0R/4JBTKnJN0e6/tGcybs2EAAAAAEADZgd592FaVXgEAAQDXVpVe</string>
+    <string name="choose_role">Choose Role</string>
+    <string name="label_audience">Audience</string>
+    <string name="label_broadcaster">Broadcaster</string>
+
+    <!--006a936f76c975445979192c0c84860195fIAAZvs/ToETMQS6aei2KL9tPWva7SBbMZwT8pDG2hshRL8ybs2EAAAAAEABEVnw09qmRXgEAAQD2qZFe-->
+</resources>
